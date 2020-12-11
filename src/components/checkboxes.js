@@ -112,7 +112,7 @@ export default function CheckBoxes() {
                 </Select>
             </FormControl>
             <FormControl className={classes.formControl}>
-                <InputLabel id="demo-mutiple-checkbox-label">Sales Channel</InputLabel>
+                <InputLabel id=" demo-mutiple-checkbox-label">Sales Channel</InputLabel>
                 <Select
                     labelId="demo-mutiple-checkbox-label"
                     id="demo-mutiple-checkbox"
